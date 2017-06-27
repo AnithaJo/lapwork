@@ -1,0 +1,8 @@
+c:\users\admin\documents\visual studio 2015\Projects\Worker\Worker\bin\Debug\Worker.exe.config
+c:\users\admin\documents\visual studio 2015\Projects\Worker\Worker\bin\Debug\Worker.exe
+c:\users\admin\documents\visual studio 2015\Projects\Worker\Worker\bin\Debug\Worker.pdb
+c:\users\admin\documents\visual studio 2015\Projects\Worker\Worker\bin\Debug\RabbitMQ.Client.dll
+c:\users\admin\documents\visual studio 2015\Projects\Worker\Worker\bin\Debug\RabbitMQ.Client.xml
+c:\users\admin\documents\visual studio 2015\Projects\Worker\Worker\obj\Debug\Worker.exe
+c:\users\admin\documents\visual studio 2015\Projects\Worker\Worker\obj\Debug\Worker.pdb
+C:\Users\admin\Documents\Visual Studio 2015\Projects\Worker\Worker\obj\Debug\Worker.csprojResolveAssemblyReference.cache

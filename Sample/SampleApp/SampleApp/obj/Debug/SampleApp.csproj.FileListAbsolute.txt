@@ -1,0 +1,9 @@
+c:\Users\admin\documents\visual studio 2015\Projects\Sample\SampleApp\SampleApp\bin\Debug\SampleApp.dll
+c:\Users\admin\documents\visual studio 2015\Projects\Sample\SampleApp\SampleApp\bin\Debug\SampleApp.pdb
+c:\Users\admin\documents\visual studio 2015\Projects\Sample\SampleApp\SampleApp\obj\Debug\SampleApp.csprojResolveAssemblyReference.cache
+c:\Users\admin\documents\visual studio 2015\Projects\Sample\SampleApp\SampleApp\obj\Debug\SampleApp.dll
+c:\Users\admin\documents\visual studio 2015\Projects\Sample\SampleApp\SampleApp\obj\Debug\SampleApp.pdb
+c:\Users\admin\documents\visual studio 2015\Projects\Sample\SampleApp\SampleApp\obj\Debug\SampleApp.dll.mdb
+c:\Users\admin\documents\visual studio 2015\Projects\Sample\SampleApp\SampleApp\bin\Debug\SampleApp.dll.mdb
+c:\Users\admin\documents\visual studio 2015\Projects\Sample\SampleApp\SampleApp\obj\Debug\SampleApp.dll.mdb
+c:\Users\admin\documents\visual studio 2015\Projects\Sample\SampleApp\SampleApp\bin\Debug\SampleApp.dll.mdb

@@ -1,0 +1,8 @@
+c:\users\admin\documents\visual studio 2015\Projects\ReceiveLogs\ReceiveLogs\bin\Debug\ReceiveLogs.exe.config
+c:\users\admin\documents\visual studio 2015\Projects\ReceiveLogs\ReceiveLogs\bin\Debug\ReceiveLogs.exe
+c:\users\admin\documents\visual studio 2015\Projects\ReceiveLogs\ReceiveLogs\bin\Debug\ReceiveLogs.pdb
+c:\users\admin\documents\visual studio 2015\Projects\ReceiveLogs\ReceiveLogs\bin\Debug\RabbitMQ.Client.dll
+c:\users\admin\documents\visual studio 2015\Projects\ReceiveLogs\ReceiveLogs\bin\Debug\RabbitMQ.Client.xml
+c:\users\admin\documents\visual studio 2015\Projects\ReceiveLogs\ReceiveLogs\obj\Debug\ReceiveLogs.csprojResolveAssemblyReference.cache
+c:\users\admin\documents\visual studio 2015\Projects\ReceiveLogs\ReceiveLogs\obj\Debug\ReceiveLogs.exe
+c:\users\admin\documents\visual studio 2015\Projects\ReceiveLogs\ReceiveLogs\obj\Debug\ReceiveLogs.pdb

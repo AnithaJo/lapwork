@@ -1,0 +1,4 @@
+SampleApp.Droid.MainActivity, SampleApp.Droid;md52c22ec5f906a321dfad93224a1adf29a.MainActivity
+SampleApp.Droid.MainActivity, SampleApp.Droid, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md52c22ec5f906a321dfad93224a1adf29a.MainActivity
+SampleApp.Droid.MainActivity;md52c22ec5f906a321dfad93224a1adf29a.MainActivity
+sampleapp.droid.MainActivity;md52c22ec5f906a321dfad93224a1adf29a.MainActivity

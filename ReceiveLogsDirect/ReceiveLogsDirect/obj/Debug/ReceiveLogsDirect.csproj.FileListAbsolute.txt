@@ -1,0 +1,7 @@
+c:\users\admin\documents\visual studio 2015\Projects\ReceiveLogsDirect\ReceiveLogsDirect\bin\Debug\ReceiveLogsDirect.exe.config
+c:\users\admin\documents\visual studio 2015\Projects\ReceiveLogsDirect\ReceiveLogsDirect\bin\Debug\ReceiveLogsDirect.exe
+c:\users\admin\documents\visual studio 2015\Projects\ReceiveLogsDirect\ReceiveLogsDirect\bin\Debug\ReceiveLogsDirect.pdb
+c:\users\admin\documents\visual studio 2015\Projects\ReceiveLogsDirect\ReceiveLogsDirect\bin\Debug\RabbitMQ.Client.dll
+c:\users\admin\documents\visual studio 2015\Projects\ReceiveLogsDirect\ReceiveLogsDirect\bin\Debug\RabbitMQ.Client.xml
+c:\users\admin\documents\visual studio 2015\Projects\ReceiveLogsDirect\ReceiveLogsDirect\obj\Debug\ReceiveLogsDirect.exe
+c:\users\admin\documents\visual studio 2015\Projects\ReceiveLogsDirect\ReceiveLogsDirect\obj\Debug\ReceiveLogsDirect.pdb

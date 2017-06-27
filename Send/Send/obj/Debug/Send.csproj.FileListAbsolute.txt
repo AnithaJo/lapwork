@@ -1,0 +1,8 @@
+c:\users\admin\documents\visual studio 2015\Projects\Send\Send\bin\Debug\Send.exe.config
+c:\users\admin\documents\visual studio 2015\Projects\Send\Send\bin\Debug\Send.exe
+c:\users\admin\documents\visual studio 2015\Projects\Send\Send\bin\Debug\Send.pdb
+c:\users\admin\documents\visual studio 2015\Projects\Send\Send\bin\Debug\RabbitMQ.Client.dll
+c:\users\admin\documents\visual studio 2015\Projects\Send\Send\bin\Debug\RabbitMQ.Client.xml
+c:\users\admin\documents\visual studio 2015\Projects\Send\Send\obj\Debug\Send.exe
+c:\users\admin\documents\visual studio 2015\Projects\Send\Send\obj\Debug\Send.pdb
+C:\Users\admin\Documents\Visual Studio 2015\Projects\Send\Send\obj\Debug\Send.csprojResolveAssemblyReference.cache

@@ -1,0 +1,7 @@
+C:\Users\admin\Documents\Visual Studio 2015\Projects\Receive\Receive\bin\Debug\Receive.exe.config
+C:\Users\admin\Documents\Visual Studio 2015\Projects\Receive\Receive\bin\Debug\Receive.exe
+C:\Users\admin\Documents\Visual Studio 2015\Projects\Receive\Receive\bin\Debug\Receive.pdb
+C:\Users\admin\Documents\Visual Studio 2015\Projects\Receive\Receive\bin\Debug\RabbitMQ.Client.dll
+C:\Users\admin\Documents\Visual Studio 2015\Projects\Receive\Receive\bin\Debug\RabbitMQ.Client.xml
+C:\Users\admin\Documents\Visual Studio 2015\Projects\Receive\Receive\obj\Debug\Receive.exe
+C:\Users\admin\Documents\Visual Studio 2015\Projects\Receive\Receive\obj\Debug\Receive.pdb
